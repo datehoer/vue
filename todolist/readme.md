@@ -20,3 +20,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 ### 通过npm install来安装node_modules
+![image](https://github.com/datehoer/vue/todolist/vuetodolist1.jpg)
